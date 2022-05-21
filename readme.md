@@ -1,4 +1,5 @@
 ### EXAMPLE
+```
 vpc-nat
 subnet-c 10.130.0.0/24
 subnet-b 10.129.0.0/24
